@@ -1,0 +1,16 @@
+body{
+    background-image: url(./images/porter.jpg);
+}
+.profImg{
+    border-radius: 50%;
+}
+h2{
+    color: blueviolet;
+}
+p{
+    color: palevioletred;
+}
+#userProfile{
+    display: grid;
+    place-content: center;
+}
